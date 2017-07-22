@@ -6,7 +6,10 @@
   "repository": "https://github.com/MauroJr/arangodown.git",
   "author": "Mauro Junior",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "abstract-leveldown": "^2.6.1",
+    "arangojs": "^5.7.0"
+  },
   "keywords": [],
   "scripts": {
     "?info": "Display information about the scripts.",
